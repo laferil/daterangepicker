@@ -1,15 +1,16 @@
 {
-  "name": "daterangepicker",
+  "name": "@laferil/daterangepicker",
   "version": "3.1.0",
   "description": "Date range picker component for Bootstrap",
   "main": "daterangepicker.js",
   "style": "daterangepicker.css",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dangrossman/daterangepicker.git"
+    "url": "https://github.com/laferil/daterangepicker.git"
   },
   "author": {
     "name": "Dan Grossman",
@@ -18,9 +19,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dangrossman/daterangepicker/issues"
+    "url": "https://github.com/laferil/daterangepicker/issues"
   },
-  "homepage": "https://github.com/dangrossman/daterangepicker",
+  "homepage": "https://github.com/laferil/daterangepicker",
   "dependencies": {
     "jquery": ">=1.10",
     "moment": "^2.9.0"
