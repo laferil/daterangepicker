@@ -1,6 +1,6 @@
 Package.describe({
   name: 'laferil:bootstrap-daterangepicker',
-  version: '3.1.0',
+  version: '3.1.1',
   summary: 'Date range picker component',
   git: 'https://github.com/dangrossman/daterangepicker',
   documentation: 'README.md'
